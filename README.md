@@ -1,3 +1,3 @@
 # 11월2일
 
-first 2
+first
